@@ -11,7 +11,7 @@
 
 3. typing one of the program names will show a list of all the available versions (EX: Python):
 
-![image](https://github.com/InfernoCycle/Installer-of-Installers/assets/105338348/6ffde37b-69d1-43bd-8282-a6f07643786c)
+![image](https://github.com/InfernoCycle/Installer-of-Installers/assets/105338348/0e823e08-2da2-43e7-892e-4096eef23e29)
 
 5. Upon choosing a number and pressing enter, your download will begin immediately. Once the prompt disappears, the download has finished.
 
