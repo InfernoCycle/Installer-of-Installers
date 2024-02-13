@@ -9,10 +9,20 @@
 1. run the inferno_installer.exe
 2. A prompt should appear showing multiple programs you can download (Python, Java, MinGW, MySQL).
 
-3. typing 'python' will show a list of all the available versions:
+3. typing one of the program names will show a list of all the available versions (EX: Python):
+
 ![image](https://github.com/InfernoCycle/Installer-of-Installers/assets/105338348/6ffde37b-69d1-43bd-8282-a6f07643786c)
 
-4. Upon choosing a number and pressing enter, your download will begin immediately. Once the prompt disappears the download has finished.
+5. Upon choosing a number and pressing enter, your download will begin immediately. Once the prompt disappears the download has finished.
+
+## available programs
+1. Python
+2. Java
+3. MinGW
+4. MySQL
+
+## Supported OS's
+This app has only been tested on Windows 10, and only windows devices can use this app for now.
 
 ## Warnings
 You might get security messages if using any anti-virus applications (McAfee, Norton, etc), just click allow.
