@@ -15,7 +15,7 @@
 
 5. Upon choosing a number and pressing enter, your download will begin immediately. Once the prompt disappears the download has finished.
 
-## available programs
+## Available Programs To Download
 1. Python
 2. Java
 3. MinGW
