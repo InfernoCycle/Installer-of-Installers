@@ -15,7 +15,9 @@
 
 5. Upon choosing a number and pressing enter, your download will begin immediately. Once the prompt disappears, the download has finished.
 
-6. All downloads are downloaded in the directory that the exe file is located. 
+![image](https://github.com/InfernoCycle/Installer-of-Installers/assets/105338348/547695b8-34ce-4293-b1bb-4aa895f4524f)
+
+7. All downloads are downloaded in the directory that the exe file is located. 
 
 ## Available Programs To Download
 1. Python
