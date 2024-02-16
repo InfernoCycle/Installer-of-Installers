@@ -1,4 +1,5 @@
 # Installer-of-Installers
+A simple console app that allows users to install 4 different distributions of popular programs straight from a single executable application.
 
 ## Pre-requisites
 1. Java 8 and up. You can download it [here](https://www.java.com/download/ie_manual.jsp) for windows. Also make sure it's on your path if you already have it installed. 
